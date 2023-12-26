@@ -1,0 +1,10 @@
+C:\Users\fixpg\source\repos\BookLibrar\bin\Debug\ConsoleApp1.deps.json
+C:\Users\fixpg\source\repos\BookLibrar\bin\Debug\ConsoleApp1.runtimeconfig.json
+C:\Users\fixpg\source\repos\BookLibrar\bin\Debug\ConsoleApp1.exe
+C:\Users\fixpg\source\repos\BookLibrar\bin\Debug\ConsoleApp1.dll
+C:\Users\fixpg\source\repos\BookLibrar\bin\Debug\BookLibrar.dll
+C:\Users\fixpg\source\repos\BookLibrar\bin\Debug\ConsoleApp1.pdb
+C:\Users\fixpg\source\repos\BookLibrar\bin\Debug\BookLibrar.pdb
+C:\Users\fixpg\source\repos\BookLibrar\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\fixpg\source\repos\BookLibrar\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\fixpg\source\repos\BookLibrar\obj\Debug\docker-compose.dcproj.CopyComplete

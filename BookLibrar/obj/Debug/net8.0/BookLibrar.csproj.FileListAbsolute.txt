@@ -1,0 +1,11 @@
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\bin\Debug\net8.0\BookLibrar.deps.json
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\bin\Debug\net8.0\BookLibrar.dll
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\bin\Debug\net8.0\BookLibrar.pdb
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\obj\Debug\net8.0\BookLibrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\obj\Debug\net8.0\BookLibrar.AssemblyInfoInputs.cache
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\obj\Debug\net8.0\BookLibrar.AssemblyInfo.cs
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\obj\Debug\net8.0\BookLibrar.csproj.CoreCompileInputs.cache
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\obj\Debug\net8.0\BookLibrar.dll
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\obj\Debug\net8.0\refint\BookLibrar.dll
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\obj\Debug\net8.0\BookLibrar.pdb
+C:\Users\fixpg\source\repos\BookLibrar\BookLibrar\obj\Debug\net8.0\ref\BookLibrar.dll

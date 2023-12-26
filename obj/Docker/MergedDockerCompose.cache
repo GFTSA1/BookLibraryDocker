@@ -1,0 +1,12 @@
+name: dockercompose16240245422648615285
+services:
+  consoleapp1:
+    build:
+      context: C:\Users\fixpg\source\repos\BookLibrar
+      dockerfile: ConsoleApp1/Dockerfile
+    image: consoleapp1
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose16240245422648615285_default
